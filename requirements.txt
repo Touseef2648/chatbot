@@ -1,4 +1,3 @@
 transformers
-TIME-python
 sqlite3
 torch
